@@ -1,0 +1,9 @@
+main: FactionFinder.FactionFinder
+name: FactionFinder
+version: 1.0
+author: ryanch09
+softdepend: [Factions]
+commands:
+    factionfind:
+        description: Announce to the server that you are searching for a faction.
+        usage: /factionfind
